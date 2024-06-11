@@ -1,0 +1,6 @@
+{
+    "python.analysis.typeChekingMode": "basic",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportUnusedFunction": "none"
+      }
+  }
