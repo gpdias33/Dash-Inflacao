@@ -3,7 +3,7 @@
 #### Descrição/Objetivo
 
 O objetivo desse projeto é desenvolver um dashboard que permita a análise customizada da inflação, no periodo compreendido entre os anos
-de 2000 a 2023, segundo alguns dos principais indicadores. Acesso o projeto clicando [aqui](https://geopdias.shinyapps.io/dash-inflacao1/).
+de 2000 a 2023, segundo alguns dos principais indicadores. Acesse o projeto clicando [aqui](https://geopdias.shinyapps.io/dash-inflacao1/).
 
 #### Teconologias Utilizadas
 
