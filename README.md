@@ -2,7 +2,7 @@
 
 #### Descrição/Objetivo
 
-O objetivo desse projeto é desenvolver um dashboar que permita a análise customizada da inflação, no periodo compreendido entre os anos
+O objetivo desse projeto é desenvolver um dashboard que permita a análise customizada da inflação, no periodo compreendido entre os anos
 de 2000 a 2023, segundo alguns dos principais indicadores.
 
 #### Teconologias Utilizadas
